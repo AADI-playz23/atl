@@ -6,4 +6,3 @@ python-dotenv==1.0.1
 pyinstaller==6.5.0
 sounddevice==0.4.6
 numpy==1.26.3
-scipy==1.13.0
